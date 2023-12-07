@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="LoginTestSuite" verbose="1" >
+  <test name="SeleniumTest" >
+    <classes>
+       <!-- <class name="SeleniumTest.Login_POM" /> -->
+     <!-- <class name="SeleniumTest.getURL_Title"/> -->
+     <class name="TESTCASE.TC_Signup"/>
+     <class name="TESTCASE.TC_Login"/>
+    <class name="TESTCASE.TC_AddNewContact"/>
+    <class name="TESTCASE.TC_ContactDetail"/>
+    <class name="TESTCASE.TC_EditContact"/>
+    <class name="TESTCASE.TC_DeleteContact"/>
+    <class name="TESTCASE.TC_Logout"/>
+    <class name="TESTCASE.TC_ReturntoContactList"/>
+    </classes>
+  </test>
+   
+</suite>
