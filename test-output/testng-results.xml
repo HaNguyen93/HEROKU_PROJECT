@@ -1,135 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-08T11:11:46 ICT" name="TestSuite" finished-at="2023-12-08T11:12:30 ICT" duration-ms="43608">
+  <suite started-at="2023-12-08T18:22:48 ICT" name="Default suite" finished-at="2023-12-08T18:23:07 ICT" duration-ms="18607">
     <groups>
     </groups>
-    <test started-at="2023-12-08T11:11:46 ICT" name="SeleniumTest" finished-at="2023-12-08T11:12:30 ICT" duration-ms="43608">
-      <class name="TESTCASE.TC_Signup">
-        <test-method is-config="true" signature="beforetest()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:11:46 ICT" name="beforetest" finished-at="2023-12-08T11:11:47 ICT" duration-ms="1413" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforetest -->
-        <test-method signature="TC_001()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:11:47 ICT" name="TC_001" finished-at="2023-12-08T11:11:49 ICT" duration-ms="1354" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_001 -->
-        <test-method is-config="true" signature="beforetest()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:11:49 ICT" name="beforetest" finished-at="2023-12-08T11:11:49 ICT" duration-ms="555" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforetest -->
-        <test-method signature="TC_002()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:11:49 ICT" name="TC_002" finished-at="2023-12-08T11:11:51 ICT" duration-ms="1562" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_002 -->
-        <test-method is-config="true" signature="beforetest()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:11:51 ICT" name="beforetest" finished-at="2023-12-08T11:11:51 ICT" duration-ms="566" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforetest -->
-        <test-method signature="TC_003()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:11:51 ICT" name="TC_003" finished-at="2023-12-08T11:11:53 ICT" duration-ms="1484" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_003 -->
-        <test-method is-config="true" signature="beforetest()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:11:53 ICT" name="beforetest" finished-at="2023-12-08T11:11:53 ICT" duration-ms="549" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforetest -->
-        <test-method signature="TC_004()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:11:53 ICT" name="TC_004" finished-at="2023-12-08T11:11:55 ICT" duration-ms="1460" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_004 -->
-        <test-method is-config="true" signature="beforetest()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:11:55 ICT" name="beforetest" finished-at="2023-12-08T11:11:55 ICT" duration-ms="532" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforetest -->
-        <test-method signature="TC_005()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:11:55 ICT" name="TC_005" finished-at="2023-12-08T11:11:57 ICT" duration-ms="1525" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_005 -->
-        <test-method is-config="true" signature="beforetest()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:11:57 ICT" name="beforetest" finished-at="2023-12-08T11:11:58 ICT" duration-ms="558" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforetest -->
-        <test-method signature="TC_006()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:11:58 ICT" name="TC_006" finished-at="2023-12-08T11:11:59 ICT" duration-ms="1518" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_006 -->
-        <test-method is-config="true" signature="beforetest()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:11:59 ICT" name="beforetest" finished-at="2023-12-08T11:12:00 ICT" duration-ms="550" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforetest -->
-        <test-method signature="TC_007()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:12:00 ICT" name="TC_007" finished-at="2023-12-08T11:12:01 ICT" duration-ms="1547" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_007 -->
-        <test-method is-config="true" signature="beforetest()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:12:01 ICT" name="beforetest" finished-at="2023-12-08T11:12:02 ICT" duration-ms="583" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforetest -->
-        <test-method signature="TC_008()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:12:02 ICT" name="TC_008" finished-at="2023-12-08T11:12:03 ICT" duration-ms="1531" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_008 -->
-        <test-method is-config="true" signature="beforetest()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:12:03 ICT" name="beforetest" finished-at="2023-12-08T11:12:04 ICT" duration-ms="581" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforetest -->
-        <test-method signature="TC_009()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:12:04 ICT" name="TC_009" finished-at="2023-12-08T11:12:06 ICT" duration-ms="1680" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_009 -->
-        <test-method is-config="true" signature="beforetest()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:12:06 ICT" name="beforetest" finished-at="2023-12-08T11:12:06 ICT" duration-ms="830" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforetest -->
-        <test-method signature="TC_010()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:12:06 ICT" name="TC_010" finished-at="2023-12-08T11:12:10 ICT" duration-ms="3310" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_010 -->
-        <test-method is-config="true" signature="aftertest()[pri:0, instance:TESTCASE.TC_Signup@70e3f36f]" started-at="2023-12-08T11:12:29 ICT" name="aftertest" finished-at="2023-12-08T11:12:30 ICT" duration-ms="615" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- aftertest -->
-      </class> <!-- TESTCASE.TC_Signup -->
+    <test started-at="2023-12-08T18:22:48 ICT" name="Default test" finished-at="2023-12-08T18:23:07 ICT" duration-ms="18607">
       <class name="TESTCASE.TC_Logout">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TESTCASE.TC_Logout@6a84bc3f]" started-at="2023-12-08T11:12:10 ICT" name="beforeMethod" finished-at="2023-12-08T11:12:12 ICT" duration-ms="1842" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TESTCASE.TC_Logout@6093d508]" started-at="2023-12-08T18:22:49 ICT" name="beforeMethod" finished-at="2023-12-08T18:22:51 ICT" duration-ms="2158" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="TC_040()[pri:0, instance:TESTCASE.TC_Logout@6a84bc3f]" started-at="2023-12-08T11:12:12 ICT" name="TC_040" finished-at="2023-12-08T11:12:15 ICT" duration-ms="3896" status="PASS">
+        <test-method signature="TC_040()[pri:0, instance:TESTCASE.TC_Logout@6093d508]" started-at="2023-12-08T18:22:51 ICT" name="TC_040" finished-at="2023-12-08T18:22:53 ICT" duration-ms="2647" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_040 -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TESTCASE.TC_Logout@6a84bc3f]" started-at="2023-12-08T11:12:15 ICT" name="beforeMethod" finished-at="2023-12-08T11:12:16 ICT" duration-ms="941" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TESTCASE.TC_Logout@6093d508]" started-at="2023-12-08T18:22:53 ICT" name="beforeMethod" finished-at="2023-12-08T18:22:54 ICT" duration-ms="823" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="TC_041()[pri:0, instance:TESTCASE.TC_Logout@6a84bc3f]" started-at="2023-12-08T11:12:16 ICT" name="TC_041" finished-at="2023-12-08T11:12:19 ICT" duration-ms="3004" status="PASS">
+        <test-method signature="TC_041()[pri:0, instance:TESTCASE.TC_Logout@6093d508]" started-at="2023-12-08T18:22:54 ICT" name="TC_041" finished-at="2023-12-08T18:22:57 ICT" duration-ms="3026" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_041 -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TESTCASE.TC_Logout@6a84bc3f]" started-at="2023-12-08T11:12:19 ICT" name="beforeMethod" finished-at="2023-12-08T11:12:20 ICT" duration-ms="782" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TESTCASE.TC_Logout@6093d508]" started-at="2023-12-08T18:22:57 ICT" name="beforeMethod" finished-at="2023-12-08T18:22:58 ICT" duration-ms="795" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="TC_042()[pri:0, instance:TESTCASE.TC_Logout@6a84bc3f]" started-at="2023-12-08T11:12:20 ICT" name="TC_042" finished-at="2023-12-08T11:12:23 ICT" duration-ms="3298" status="PASS">
+        <test-method signature="TC_042()[pri:0, instance:TESTCASE.TC_Logout@6093d508]" started-at="2023-12-08T18:22:58 ICT" name="TC_042" finished-at="2023-12-08T18:23:01 ICT" duration-ms="3438" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_042 -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TESTCASE.TC_Logout@6a84bc3f]" started-at="2023-12-08T11:12:23 ICT" name="beforeMethod" finished-at="2023-12-08T11:12:24 ICT" duration-ms="790" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TESTCASE.TC_Logout@6093d508]" started-at="2023-12-08T18:23:01 ICT" name="beforeMethod" finished-at="2023-12-08T18:23:02 ICT" duration-ms="802" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="TC_043()[pri:0, instance:TESTCASE.TC_Logout@6a84bc3f]" started-at="2023-12-08T11:12:24 ICT" name="TC_043" finished-at="2023-12-08T11:12:28 ICT" duration-ms="4053" status="PASS">
+        <test-method signature="TC_043()[pri:0, instance:TESTCASE.TC_Logout@6093d508]" started-at="2023-12-08T18:23:02 ICT" name="TC_043" finished-at="2023-12-08T18:23:07 ICT" duration-ms="4265" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_043 -->
-        <test-method is-config="true" signature="aftertest()[pri:0, instance:TESTCASE.TC_Logout@6a84bc3f]" started-at="2023-12-08T11:12:28 ICT" name="aftertest" finished-at="2023-12-08T11:12:29 ICT" duration-ms="621" status="PASS">
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:TESTCASE.TC_Logout@6093d508]" started-at="2023-12-08T18:23:07 ICT" name="aftertest" finished-at="2023-12-08T18:23:07 ICT" duration-ms="595" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftertest -->
       </class> <!-- TESTCASE.TC_Logout -->
-    </test> <!-- SeleniumTest -->
-  </suite> <!-- TestSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
