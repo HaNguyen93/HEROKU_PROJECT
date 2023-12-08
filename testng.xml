@@ -5,10 +5,11 @@
     <classes>
        <!-- <class name="SeleniumTest.Login_POM" /> -->
      <!-- <class name="SeleniumTest.getURL_Title"/> -->
-    <class name="TESTCASE.TC_Signup"/>   
+    <class name="TESTCASE.TC_Login"/>
     <class name="TESTCASE.TC_Logout"/>
  <!--     
-    <class name="TESTCASE.TC_Login"/>
+    
+     <class name="TESTCASE.TC_Signup"/>  
     <class name="TESTCASE.TC_AddNewContact"/>
     <class name="TESTCASE.TC_ContactDetail"/>
     <class name="TESTCASE.TC_EditContact"/>
