@@ -1,0 +1,16 @@
+page_object_Heroku\ContactList_page.class
+TESTCASE\TC_ContactDetail.class
+TESTCASE\TC_Signup.class
+components\footer_component_heroku.class
+page_object_Heroku\EditContact_page.class
+TESTCASE\TC_ReturntoContactList.class
+TESTCASE\TC_Login.class
+TESTCASE\TC_AddNewContact.class
+TESTCASE\TC_DeleteContact.class
+page_object_Heroku\AddUser_page.class
+page_object_Heroku\ContactDetail_page.class
+page_object_Heroku\AddContact_page.class
+page_object_Heroku\ContactListApp_page.class
+TESTCASE\TC_Logout.class
+DriverFactory\ChromeDriver2.class
+TESTCASE\TC_EditContact.class

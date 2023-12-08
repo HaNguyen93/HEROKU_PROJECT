@@ -1,2 +1,3 @@
+E:
 cd E:\JAVA_WEB\workspace\HerokuProject
-mvn clean install
+mvn clean test -Dfilename=testng.xml
