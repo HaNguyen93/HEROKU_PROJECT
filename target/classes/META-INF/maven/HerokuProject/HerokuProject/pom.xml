@@ -19,7 +19,7 @@
     <artifactId>maven-surefire-plugin</artifactId>
     <configuration>
         <suiteXmlFiles>
-            <suiteXmlFile>testngs.xml
+            <suiteXmlFile>testng.xml
             </suiteXmlFile>
         </suiteXmlFiles>
     </configuration>
