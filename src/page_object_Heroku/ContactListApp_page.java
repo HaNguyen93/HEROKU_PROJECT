@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import components.footer_component_BAITAP;
+import components.footer_component_heroku;
 
 public class ContactListApp_page {
 
@@ -55,8 +55,8 @@ public class ContactListApp_page {
 		return driver.findElement(signupbtn);
 	}
 	
-	public footer_component_BAITAP footer_component() {
-		return new footer_component_BAITAP(driver);
+	public footer_component_heroku footer_component() {
+		return new footer_component_heroku(driver);
 	}
 	
 	public WebElement error() {

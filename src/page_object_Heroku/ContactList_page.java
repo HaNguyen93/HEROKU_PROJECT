@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import components.footer_component_BAITAP;
+import components.footer_component_heroku;
 
 public class ContactList_page {
 
@@ -36,8 +36,8 @@ public class ContactList_page {
 	public WebElement contactTable() {
 		return driver.findElement(contactTable);
 	}
-	public footer_component_BAITAP footer_component() {
-		return new footer_component_BAITAP(driver);
+	public footer_component_heroku footer_component() {
+		return new footer_component_heroku(driver);
 	}
 	public void addNewContactBtnClick() {
 		addNewContactBtn().click();

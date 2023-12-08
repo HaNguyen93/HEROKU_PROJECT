@@ -4,13 +4,13 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-public class footer_component_BAITAP {
+public class footer_component_heroku {
 
 	private WebDriver driver;
 	private By textFooterSelector = By.cssSelector("footer p");
 	private By imgFooterSelector = By.cssSelector("footer img");
 	
-	public footer_component_BAITAP(WebDriver driver) {
+	public footer_component_heroku(WebDriver driver) {
 		this.driver=driver;
 	}
 	
