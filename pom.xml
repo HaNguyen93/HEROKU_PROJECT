@@ -33,6 +33,22 @@
 	    <version>7.7.1</version>
 	    <scope>test</scope>
 	</dependency>
-	</dependencies>
+
 	
+	<!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-install-plugin -->
+<dependency>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-install-plugin</artifactId>
+    <version>3.1.1</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-clean-plugin -->
+<dependency>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-clean-plugin</artifactId>
+    <version>3.3.1</version>
+</dependency>
+
+	
+	</dependencies>	
 </project>
